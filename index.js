@@ -17,7 +17,7 @@ const BotName = 'WILLY-BOT';
 const instagram = 'https://instagram.com/Willy_febriano.pasaribu'; 
 const telegram = 'https://t.me/Willy_pasaribu'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = 'LINK YTMU';
+const youtube = '-';
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
